@@ -1,38 +1,37 @@
-Cricket-Game
-🏏 Cricket Game – Mini Project
-📌 Project Description
-This is a simple mini cricket game developed as my first project. The game allows users to play a basic cricket match with simple rules and score tracking.
+# 🏏 Cricket Game
 
-It is created for learning and practice purposes using programming fundamentals.
+A simple and interactive Cricket Game created using HTML, CSS, and JavaScript.  
+This project allows users to play a basic cricket match against the computer with simple rules and score tracking.
 
-🎮 Features
-User vs Computer gameplay
-Random score generation
-Win / Lose result display
-Simple game logic
-Beginner-friendly design
-🛠️ Technologies Used
-Programming Language: (Write yours → e.g., Java / Python / C++ / JavaScript)
-IDE/Editor: (VS Code / IntelliJ / PyCharm etc.)
-▶️ How to Run
-Download or clone the repository
-Open in your IDE / Code Editor
-Run the main file
-Example:
+## 🚀 Live Demo
 
-git clone https://github.com/abhishek-417/Cricket-Game.git
-📷 Output Screenshot
-(Add game screenshot here later)
+👉 [View Live Website](YOUR_VERCEL_LINK_HERE)
 
-🎯 Learning Outcome
-Learned basic programming logic
-Understood game flow design
-Practiced condition statements & loops
-📌 Future Improvements
-Add GUI interface
-Multiplayer mode
-Scoreboard system
-🙋‍♂️ Author
-Abhishek Kumar B.Tech Student | Beginner Developer
+## 🚀 Features
 
-⭐ If you like this project, give it a star on GitHub!
+- 🏏 User vs Computer gameplay
+- 🎲 Random score generation
+- 🏆 Win / Lose result display
+- 📊 Score tracking
+- 🎮 Simple and interactive game logic
+- 📱 Beginner-friendly design
+- ⚡ Lightweight and easy to use
+
+## 🛠️ Technologies Used
+
+- HTML5 – Website structure
+- CSS3 – Styling and layout
+- JavaScript – Game logic and functionality
+
+## 📁 Project Structure
+
+```text
+Cricket-Game/
+│
+├── ball.png
+├── bat.png
+├── stump.png
+├── cricket.html
+├── cricket.css
+├── index.js
+└── README.md
