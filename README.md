@@ -5,7 +5,7 @@ This project allows users to play a basic cricket match against the computer wit
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](YOUR_VERCEL_LINK_HERE)
+👉 [View Live Website](https://cricket-game-chi-nine.vercel.app/)
 
 ## 🚀 Features
 
